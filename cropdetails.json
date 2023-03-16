@@ -1,0 +1,53 @@
+[{
+  "_id": 4,
+  "fname": "Maran",
+  "name": "Orange",
+  "image": "https://5.imimg.com/data5/VN/YP/MY-33296037/orange-600x600-500x500.jpg",
+  "cropType": "Fruit",
+  "desc": "Fruit",
+  "price": 150,
+  "quantity": 1,
+  "available": true,
+  "location": "Nagarcoil",
+  "contact": "6798902349",
+  "_class": "com.cropdeal.model.CropDetails"
+},{
+  "_id": 2,
+  "fname": "Sammurudhi",
+  "name": "Wheat",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/ZB/MN/MR/19368006/wheat-seed-1--500x500.jpg",
+  "cropType": "Cereals",
+  "desc": "Wheat is grown in a good field which is rich in many nutrients and it can be consumed daily",
+  "price": 260,
+  "quantity": 1,
+  "available": true,
+  "location": "Tirupur",
+  "contact": "6798902346",
+  "_class": "com.cropdeal.model.CropDetails"
+},{
+  "_id": 6,
+  "fname": "Maran",
+  "name": "Tomato",
+  "image": "https://pictures.grocerapps.com/original/grocerapp-tomato--6040a0893f292.jpeg",
+  "cropType": "Vegetable",
+  "desc": "This crop grown in a clean environment without using any fertilizers and fresh from farm ",
+  "price": 80,
+  "quantity": 1,
+  "available": true,
+  "location": "Tirupur",
+  "contact": "6798902345",
+  "_class": "com.cropdeal.model.CropDetails"
+},{
+  "_id": 1,
+  "fname": "Sharath",
+  "name": "Apple",
+  "image": "https://img.freepik.com/premium-photo/red-apple-with-green-leaf-isolated-white_80510-518.jpg",
+  "cropType": "Fruit",
+  "desc": "Apple is grown in a good field which is rich in many nutrients and it can be consumed daily",
+  "price": 180,
+  "quantity": 1,
+  "available": true,
+  "location": "warangal",
+  "contact": "6798902345",
+  "_class": "com.cropdeal.model.CropDetails"
+}]

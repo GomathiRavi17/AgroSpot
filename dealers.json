@@ -1,0 +1,53 @@
+[
+  {
+    "_id": 1,
+    "name": "Selvam",
+    "image": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/05/08/file7e6hlbrgo5115xzrcf37-1107373-1651967364.jpg?itok=UxHJgglg",
+    "email": "selvam@gmail.com",
+    "address": {
+      "houseNo": "66b",
+      "street": "Kabbar Street",
+      "city": "kuppam",
+      "district": "trichy",
+      "state": "Tamilnadu",
+      "pincode": "608760"
+    },
+    "contact": "6798902345",
+    "about": "I am person who is eager to buy and sell crops directly from the farmers for reasonable price. I can directly visit the farmers place to get the crops.",
+    "_class": "com.dealer.model.Dealer"
+  },
+  {
+    "_id": 3,
+    "name": "Dinesh",
+    "image": "https://n5a7d2f2.stackpathcdn.com/wp-content/uploads/2019/12/IMG-20191121-WA0034-01-min-760x570.jpeg",
+    "email": "dinesh@gmail.com",
+    "address": {
+      "houseNo": "49",
+      "street": "nehru street",
+      "city": "gandhipuram",
+      "district": "thirunelveli",
+      "state": "tamilnadu",
+      "pincode": "608390"
+    },
+    "contact": "6754328901",
+    "about": "I am Vegetables and Fruits Seller for many years who always interested in buying crops directly from farmers",
+    "_class": "com.dealer.model.Dealer"
+  },
+  {
+    "_id": 4,
+    "name": "Shakthi",
+    "image": "https://media.istockphoto.com/id/491960200/photo/local-vegetable-market-in-india.jpg?s=612x612&w=0&k=20&c=wcYk_6NetigS5MKERga2gRlRY6Er90sdHRkMX3MBgZc=",
+    "email": "shakthi@gmail.com",
+    "address": {
+      "houseNo": "67",
+      "street": "periyar street",
+      "city": "arc nagar",
+      "district": "kanyakumari",
+      "state": "tamilnadu",
+      "pincode": "452987"
+    },
+    "contact": "7645234567",
+    "about": "I am a enthusiastic dealer who interested in buying good crop from farmers directly and sells it to the customer",
+    "_class": "com.dealer.model.Dealer"
+  }
+]

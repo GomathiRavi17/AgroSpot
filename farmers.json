@@ -1,0 +1,110 @@
+[{
+  "_id": 1,
+  "name": "Maran",
+  "image": "https://t3.ftcdn.net/jpg/03/26/96/04/360_F_326960484_ctiFXRqXe4a1XBbRmOI0bvD0otDqgk49.jpg",
+  "email": "maran@gmail.com",
+  "address": {
+    "houseNo": "66a",
+    "street": "thiruvalluvar street",
+    "city": "Sharma nagar",
+    "district": "thoothukodi",
+    "state": "tamilnadu",
+    "pincode": "600799"
+  },
+  "contact": "9808675467",
+  "about": "I am a Enthusiastic Farmer who cultivates all crops naturally without using any fertilizer and sells the crops at reasonable price",
+  "cropDetails": [
+    {
+      "_id": 4,
+      "fname": "Maran",
+      "name": "Orange",
+      "image": "https://5.imimg.com/data5/VN/YP/MY-33296037/orange-600x600-500x500.jpg",
+      "cropType": "Fruit",
+      "desc": "Fruit",
+      "price": 150,
+      "quantity": 1,
+      "available": true,
+      "location": "Nagarcoil",
+      "contact": "6798902349"
+    }
+  ],
+  "_class": "com.farmer.model.Farmer"
+},{
+  "_id": 2,
+  "name": "gomathi",
+  "image": "https://images.yourstory.com/cs/5/f02aced0d86311e98e0865c1f0fe59a2/indian-farmer-1610471656527.png?w=752&fm=auto&ar=2:1&mode=crop&crop=faces",
+  "email": "gomathi@gmail.com",
+  "address": {
+    "houseNo": "31b",
+    "street": "13th street",
+    "city": "mgr nagar",
+    "district": "coimbatore",
+    "state": "tamilnadu",
+    "pincode": "609976"
+  },
+  "contact": "9870764532",
+  "about": "I am a farmer who cultivates good crops without using any fertilizers and sells it at reasonable price",
+  "_class": "com.farmer.model.Farmer"
+},{
+  "_id": 3,
+  "name": "Sharath",
+  "image": "https://cst.brightspotcdn.com/dims4/default/f1e7709/2147483647/strip/false/crop/5290x3526+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F_PLLnG7X3U2pve0Jz9HvOxbrYng%3D%2F0x0%3A5290x3526%2F5290x3526%2Ffilters%3Afocal%282969x1537%3A2970x1538%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F22824218%2Fmerlin_100459279.jpg",
+  "email": "sharath@gmail.com",
+  "address": {
+    "houseNo": "25",
+    "street": "gandhi street",
+    "city": "hanamkonda",
+    "district": "warangal",
+    "state": "telangana",
+    "pincode": "690203"
+  },
+  "contact": "7654231098",
+  "about": "I am a Hardworking farmer and Loyal to soil as i am not add any fertilizers to grow plants.",
+  "cropDetails": [
+    {
+      "_id": 1,
+      "fname": "Sharath",
+      "name": "Apple",
+      "image": "https://img.freepik.com/premium-photo/red-apple-with-green-leaf-isolated-white_80510-518.jpg",
+      "cropType": "Fruit",
+      "desc": "Apple is grown in a good field which is rich in many nutrients and it can be consumed daily",
+      "price": 150,
+      "quantity": 1,
+      "available": true,
+      "location": "warangal",
+      "contact": "6798902345"
+    }
+  ],
+  "_class": "com.farmer.model.Farmer"
+},{
+  "_id": 4,
+  "name": "Lokesh",
+  "image": "https://images-eu.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/indianfarmer_1616522104637_original._CR3,3,1315,1315_._FMjpg_.jpeg",
+  "email": "lokesh@gmail.com",
+  "address": {
+    "houseNo": "69",
+    "street": "14th street",
+    "city": "trichy",
+    "district": "trichy",
+    "state": "tamilnadu",
+    "pincode": "790879"
+  },
+  "contact": "6799087678",
+  "about": "I am enthusiatic farmer who is ready to sell crops for reasonable price",
+  "cropDetails": [
+    {
+      "_id": 1,
+      "fname": "Sharath",
+      "name": "Apple",
+      "image": "https://img.freepik.com/premium-photo/red-apple-with-green-leaf-isolated-white_80510-518.jpg",
+      "cropType": "Fruit",
+      "desc": "Apple is grown in a good field which is rich in many nutrients and it can be consumed daily",
+      "price": 180,
+      "quantity": 1,
+      "available": true,
+      "location": "warangal",
+      "contact": "6798902345"
+    }
+  ],
+  "_class": "com.farmer.model.Farmer"
+}]
