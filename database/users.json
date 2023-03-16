@@ -1,1 +1,71 @@
-users
+[{
+  "_id": 1,
+  "userName": "Maran",
+  "password": "Maran@123",
+  "active": true,
+  "role": "ROLE_FARMER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 2,
+  "userName": "Ramu",
+  "password": "ramu@123",
+  "active": true,
+  "role": "ROLE_ADMIN",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 3,
+  "userName": "Selvam",
+  "password": "selvam@123",
+  "active": true,
+  "role": "ROLE_DEALER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 5,
+  "userName": "gomathi",
+  "password": "gomu@123",
+  "active": true,
+  "role": "ROLE_FARMER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 8,
+  "userName": "Sharath",
+  "password": "sharath@123",
+  "active": true,
+  "role": "ROLE_FARMER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 9,
+  "userName": "Chandru",
+  "password": "chandru@123",
+  "active": true,
+  "role": "ROLE_FARMER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 10,
+  "userName": "Gokul",
+  "password": "gokul@123",
+  "active": true,
+  "role": "ROLE_DEALER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 11,
+  "userName": "Dinesh",
+  "password": "dinesh@123",
+  "active": true,
+  "role": "ROLE_DEALER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 12,
+  "userName": "Shakthi",
+  "password": "shakthi@123",
+  "active": true,
+  "role": "ROLE_DEALER",
+  "_class": "com.auth.entity.User"
+},{
+  "_id": 13,
+  "userName": "Lokesh",
+  "password": "lokesh@123",
+  "active": true,
+  "role": "ROLE_FARMER",
+  "_class": "com.auth.entity.User"
+}]
